@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.ee05639d.css",
+    "main.js": "/Website/static/js/main.9f79c52a.js",
+    "static/media/ghost_slots.png": "/Website/static/media/ghost_slots.f9a0829cd592c80c5b8c.png",
+    "static/media/ghost_machines.png": "/Website/static/media/ghost_machines.0217d720bb3f7676a003.png",
+    "static/media/ghost_runner.png": "/Website/static/media/ghost_runner.cfd8c95f21b89b3e3092.png",
+    "static/media/goldenghost.png": "/Website/static/media/goldenghost.c805e0c0979051c7a317.png",
+    "static/media/clouds.png": "/Website/static/media/clouds.3c700c1313cc1cd3d3c5.png",
+    "static/media/ghostwithtoastlogo.png": "/Website/static/media/ghostwithtoastlogo.b2712a8621bf33c213a3.png",
+    "static/media/NFT_background.webp": "/Website/static/media/NFT_background.af7bfeab65748d9d8108.webp",
+    "static/media/diamondghost.webp": "/Website/static/media/diamondghost.6d907c5862701f0343f9.webp",
+    "static/media/golddiamondghost.webp": "/Website/static/media/golddiamondghost.a2b3049cdb2ef3a7bf9f.webp",
+    "static/media/Background.webp": "/Website/static/media/Background.abd3e5084c20a32c796d.webp",
+    "static/media/fog-low.png": "/Website/static/media/fog-low.965eab52c95e117d1d45.png",
+    "static/media/nutella_ghost.webp": "/Website/static/media/nutella_ghost.599e6da66f810da7e03c.webp",
+    "static/media/avoc_ghost.webp": "/Website/static/media/avoc_ghost.647cd71f992f5495503b.webp",
+    "static/media/silver_dab_ghost.webp": "/Website/static/media/silver_dab_ghost.275f33035cdb526f45aa.webp",
+    "static/media/godtierghost.webp": "/Website/static/media/godtierghost.1bb24092469d757bd3bc.webp",
+    "static/media/ghost_crush.webp": "/Website/static/media/ghost_crush.fa0ece11e77067d383bf.webp",
+    "static/media/nutellaghost.webp": "/Website/static/media/nutellaghost.75920d5b29d06a42bb4a.webp",
+    "static/media/bronze_tier_ghost.webp": "/Website/static/media/bronze_tier_ghost.11f4c2f0346b54d4ff02.webp",
+    "static/media/gamestop_baby_ghost.webp": "/Website/static/media/gamestop_baby_ghost.ccdf78869feab48febee.webp",
+    "static/media/blurred-image-1.jpg": "/Website/static/media/blurred-image-1.98c0e5e19751c2476706.jpg",
+    "static/media/angry_ghosts.webp": "/Website/static/media/angry_ghosts.f01bb0e5f7f74f306366.webp",
+    "static/media/internet-computer-icp-logo.png": "/Website/static/media/internet-computer-icp-logo.829ba3b63c61f4a18cf2.png",
+    "static/media/flappy_ghosts.webp": "/Website/static/media/flappy_ghosts.1be8585e3afb8c4be9ba.webp",
+    "static/media/snake_ghost.webp": "/Website/static/media/snake_ghost.356863a88837dbaa34f7.webp",
+    "static/media/carousel_pic_3.webp": "/Website/static/media/carousel_pic_3.ed2a2923181f2bbfef2f.webp",
+    "static/media/carousel_pic_2.webp": "/Website/static/media/carousel_pic_2.f8a62697aa4320e5b60f.webp",
+    "static/media/svg_size_logo.jpg": "/Website/static/media/svg_size_logo.75dc3de03b04440a323d.jpg",
+    "static/media/carousel_pic_1.webp": "/Website/static/media/carousel_pic_1.49511eceec6a804ebc58.webp",
+    "static/media/favicon.ico": "/Website/static/media/favicon.2392ebd52afb569f1c42.ico",
+    "index.html": "/Website/index.html",
+    "main.ee05639d.css.map": "/Website/static/css/main.ee05639d.css.map",
+    "main.9f79c52a.js.map": "/Website/static/js/main.9f79c52a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee05639d.css",
+    "static/js/main.9f79c52a.js"
+  ]
+}
