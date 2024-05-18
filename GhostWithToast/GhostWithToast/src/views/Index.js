@@ -1,0 +1,39 @@
+
+import React from "react";
+
+// core components
+import IndexNavbar from "components/Navbars/IndexNavbar.js";
+import IndexHeader from "components/Headers/IndexHeader.js";
+import DemoFooter from "components/Footers/DemoFooter.js";
+
+// index sections
+import SectionCarousel from "views/index-sections/SectionCarousel.js";
+import SectionDark from "views/index-sections/SectionDark";
+import SectionDownload from "./index-sections/IntroAndRoadmap";
+import SectionNotifications from "./index-sections/SectionNotifications";
+import SectionLogin from "./index-sections/SectionLogin";
+
+function Index() {
+  document.documentElement.classList.remove("nav-open");
+  React.useEffect(() => {
+    document.body.classList.add("index");
+    return function cleanup() {
+      document.body.classList.remove("index");
+    };
+  });
+  return (
+    <>
+      <IndexNavbar />
+      <IndexHeader />
+      <div className="main">
+        <SectionDownload />
+        <SectionCarousel />
+        <SectionLogin/>
+        <SectionDark />
+        <DemoFooter />
+      </div>
+    </>
+  );
+}
+
+export default Index;
